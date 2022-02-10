@@ -16,6 +16,6 @@
     </dependency>
   </dependencies>
   <build>
-    <finalName>safeway</finalName>
+    <finalName>safeway1</finalName>
   </build>
 </project>
